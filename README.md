@@ -17,10 +17,9 @@ The project consists of the following different set-ups of Pagerank on WikiDatas
 
 ## Metrics 
 We have drawn our observations from looging following metrics during execution times 
-'''
  1. Job completion times 
  2. Network traffic(recv/send data) across worker nodes. 
- 3. Disk read/write (read/writ data) across worker nodes. '''
+ 3. Disk read/write (read/writ data) across worker nodes. 
 
 ## Results
 We have provided all information ( Implementation, Observations, Graphs etc ) in a single report here. 
