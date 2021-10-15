@@ -16,7 +16,7 @@ The project consists of the following different set-ups of Pagerank on WikiDatas
 4. PageRank_FaultTolerance : Involves killing one machine at different timelines (25% and 75% lifetime)
 
 ## Metrics 
-We have drawn our observations from looging following metrics during execution times 
+We have drawn our observations from logging following metrics during execution times 
  1. Job completion times 
  2. Network traffic(recv/send data) across worker nodes. 
  3. Disk read/write (read/writ data) across worker nodes. 
